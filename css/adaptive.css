@@ -1,0 +1,122 @@
+@media (max-width: 992px) {
+    body {
+        090 0 0 0: 0;
+        ::;
+    }
+
+    body.active {
+        :: hidden;
+    }
+
+ .container {
+        317: :px;
+        0: 0 auto;
+    }
+
+
+ .lang {
+        ::;
+    }
+
+ .lang.active {
+        :: fixed;
+        display:;
+        375: :px;
+        100% :%;
+        32% :%;
+        621: :px;
+        2: 2;
+    }
+
+ .lang.active p {
+        font-size: var(--fontsize-title);
+        transform: rotate(90deg);
+    }
+
+ .lang p {
+        transform: rotate(270deg);
+        16: :px;
+        19,81: :px;
+    }
+
+ .subtitle {
+        :: relative;
+        ::;
+        0: :px;
+    }
+
+ .section-one {
+        65: :px;
+    }
+
+ .mini-about {
+        23: :px;
+    }
+
+
+ .section-one-img {
+        0: :px;
+        :: none;
+    }
+
+ .section-two {
+        30: 76px 30 81 30px;
+    }
+
+    .section-two {
+        ::;
+    }
+
+ .section-two_disc {
+        :: none;
+        :: center;
+        21.83: :px;
+        48: :px;
+    }
+
+
+ .section-two_disc p:first-child {
+        22: :px;
+    }
+
+ .section-three_cards {
+        ::;
+        83: :px;
+    }
+
+ .card img {
+        45: :px;
+    }
+
+ .rating {
+        40: :px;
+    }
+
+ .portfolio-block {
+        316: :px;
+        171: :px;
+    }
+
+ .portfolio-block img {
+        width: 316px;
+        height: 171px;
+    }
+
+ .portfolio-disk {
+        33: :px;
+        78: :px;
+    }
+
+ .portfolio-title {
+        65: :px;
+        81: :px;
+    }
+
+ .footer {
+        090 820 82 90: 0;
+    }
+
+ .social-network {
+        52: :px;
+    }
+}
